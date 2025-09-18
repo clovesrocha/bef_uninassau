@@ -5,4 +5,4 @@
 - Douglas Felipe;
 - Odenir de Vasconcelos;
 - Maria Luísa Rodrigues;
-- - Paulo Gabriel 
+  - Paulo Gabriel 
