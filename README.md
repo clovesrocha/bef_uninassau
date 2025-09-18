@@ -13,3 +13,9 @@
 - Levi Dornelas
 - Alysson gomes dos Rez
 - Lindalva Evellyn Ferreira
+- Arthur Layme Galdino
+- Thiago Henrique Rodrigues Couceiro
+- Anderson da Silva Bezerra
+- Gabriel Cauã Leal Vieira
+- Ruan Gabriel Alves de Lima
+- Flavia Milano
