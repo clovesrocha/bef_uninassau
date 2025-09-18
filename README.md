@@ -5,8 +5,9 @@
 - Douglas Felipe;
 - Odenir de Vasconcelos;
 - Maria Luísa Rodrigues;
-  - Paulo Gabriel 
+- Paulo Gabriel 
 - Júlia Cardoso;
 - Aylanna Santos;
 - Matheus Teófilo;
 - João Victor Azevedo de Sena- 01707269
+- Levi Dornelas
