@@ -11,3 +11,5 @@
 - Matheus Teófilo;
 - João Victor Azevedo de Sena- 01707269
 - Levi Dornelas
+- Alysson gomes dos Rez
+- Lindalva Evellyn Ferreira
