@@ -9,3 +9,4 @@
 - Júlia Cardoso;
 - Aylanna Santos;
 - Matheus Teófilo;
+- João Victor Azevedo de Sena- 01707269
