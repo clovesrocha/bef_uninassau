@@ -6,3 +6,6 @@
 - Odenir de Vasconcelos;
 - Maria Luísa Rodrigues;
   - Paulo Gabriel 
+- Júlia Cardoso;
+- Aylanna Santos;
+- Matheus Teófilo;
