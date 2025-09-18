@@ -3,3 +3,4 @@
 # Workshop Django (quinta 18/Set)
 - Prof. Mentor Cloves Rocha;
 - ...
+Douglas Felipe
