@@ -4,4 +4,5 @@
 - Prof. Mentor Cloves Rocha;
 - Douglas Felipe;
 - Odenir de Vasconcelos;
-- Maria Luísa Rodrigues; 
+- Maria Luísa Rodrigues;
+- - Paulo Gabriel 
