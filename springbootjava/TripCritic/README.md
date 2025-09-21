@@ -117,10 +117,3 @@ Sugestões futuras (não quebram o escopo deste exercício):
 - Melhorar o uso de `dataVisita` no fluxo de marcação (persistir a data informada ou remover do request se não for usada).
 - Substituir `RuntimeException` por exceções específicas e mapear para códigos HTTP adequados.
 
-## Problemas comuns
-- Porta do Postgres já em uso: pare outras instâncias ou altere a porta no `compose.yaml`.
-- Erro de validação 400: verifique o corpo do JSON conforme as regras acima.
-- Java 22 não encontrado: instale o JDK 22 ou ajuste o toolchain.
-
----
-Com isso, os alunos conseguem clonar, subir o banco, rodar a aplicação e entender as regras de validação e principais endpoints.
