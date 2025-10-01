@@ -20,3 +20,4 @@
 - Ruan Gabriel Alves de Lima
 - Flavia Milano
 - Pedro Gabriel Siqueira dos Santos
+- Luana Chaves Freire
